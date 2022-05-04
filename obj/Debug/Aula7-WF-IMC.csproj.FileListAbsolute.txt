@@ -1,0 +1,11 @@
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\bin\Debug\Aula7-WF-IMC.exe.config
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\bin\Debug\Aula7-WF-IMC.exe
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\bin\Debug\Aula7-WF-IMC.pdb
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\obj\Debug\Aula7-WF-IMC.csproj.AssemblyReference.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\obj\Debug\Aula7-WF-IMC.csproj.SuggestedBindingRedirects.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\obj\Debug\Aula7_WF_IMC.Form1.resources
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\obj\Debug\Aula7_WF_IMC.Properties.Resources.resources
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\obj\Debug\Aula7-WF-IMC.csproj.GenerateResource.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\obj\Debug\Aula7-WF-IMC.csproj.CoreCompileInputs.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\obj\Debug\Aula7-WF-IMC.exe
+D:\Cast Group\csharpintermediario\Aula1\Aula7-WF-IMC\obj\Debug\Aula7-WF-IMC.pdb
